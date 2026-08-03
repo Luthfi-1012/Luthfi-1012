@@ -134,13 +134,17 @@ Smart Contracts ████████████████░░░░░�
 
 <br/>
 
-## 🐍 Contribution Snake
+## 👻 Pac-Man Eats My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luthfi-1012/Luthfi-1012/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luthfi-1012/Luthfi-1012/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luthfi-1012/Luthfi-1012/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luthfi-1012/Luthfi-1012/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
-> ⚠️ Snake animation di atas baru muncul setelah kamu setup GitHub Action-nya (langkah ada di bawah pesan ini).
+> ⚠️ Animasi di atas baru muncul setelah workflow `.github/workflows/main.yml` pertama kali berhasil jalan (lihat catatan setup di bawah).
 
 <br/>
 
